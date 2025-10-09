@@ -1,11 +1,11 @@
-# Hello everyone <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="40"/>
+### Hi there, I'm Amir Hossein Shokri
 
-I'm Amir Hossein Shokri, a passionate back-end developer who enjoys providing creative solutions :)
+A passionate back-end developer who enjoys providing creative solutions :)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhshokri)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:shokridev@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white)](https://t.me/shokridev)
-[![Website](https://img.shields.io/badge/Website-000000?logoColor=white)](https://amirhshokri.ir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhshokri)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shokridev@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shokridev)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://amirhshokri.ir)
 
 ## Open Source Contributions
 

@@ -1,6 +1,6 @@
 ### Hi there, I'm Amir Hossein Shokri
 
-A passionate back-end developer who enjoys providing creative solutions.
+Driven by passion, powered by architecture — crafting creative back-end solutions.
 
 ## Open Source Contributions
 
